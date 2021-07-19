@@ -8,4 +8,8 @@ How to install Cypress:
 https://docs.cypress.io/guides/getting-started/installing-cypress#System-requirements
 
 
-git clone 
+git clone https://github.com/matejtest1/Five-test.git
+
+npm install
+
+npm start
