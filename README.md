@@ -6,3 +6,6 @@ Prerequisites
 
 How to install Cypress:
 https://docs.cypress.io/guides/getting-started/installing-cypress#System-requirements
+
+
+git clone 
