@@ -15,6 +15,6 @@ https://docs.cypress.io/guides/getting-started/installing-cypress#System-require
 
 - Upload folder
 
-- Enter npx cypress open into the terminal
+- Enter "npx cypress open" into the terminal
 
 - Run all integration specs
